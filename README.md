@@ -3,6 +3,12 @@ NTUT-Data Science-Project: Patent Parser
 
 # Who own the project?
 Group 6
+110C51505 張仁程
+110C51537 王星文
+110C51522 謝安
+110C51526	蔡侑芯
+110C51533	陳毓庭
+110C51520	楊文均
 
 # Update List:
 1. 讓程式碼在Windows/Linux環境下可執行抓取Xml File的動作。
