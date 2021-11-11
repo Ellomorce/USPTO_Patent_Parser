@@ -21,4 +21,5 @@ Group 6
 8. 參考老師使用了Google USE跑語義相似度，並更換了一下顏色並存成PNG檔案。
 
 References:
-https://medium.com/analytics-vidhya/best-nlp-algorithms-to-get-document-similarity-a5559244b23b
+1. https://medium.com/analytics-vidhya/best-nlp-algorithms-to-get-document-similarity-a5559244b23b
+2. https://www.tensorflow.org/hub/tutorials/semantic_similarity_with_tf_hub_universal_encoder
